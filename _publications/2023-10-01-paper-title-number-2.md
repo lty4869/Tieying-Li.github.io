@@ -1,5 +1,5 @@
 ---
-title: "An Adaptive Video Clip Sampling Approach for Enhancing Query-Based Moment Retrieval in Videos"
+title: "An Adaptive Video Clip Sampling Approach for Enhancing Query-Based Moment Retrieval in Videos(DASFAA23)"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'DASFAA 2023.'
