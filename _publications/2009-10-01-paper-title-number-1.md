@@ -3,8 +3,6 @@ title: "Bi-CMR: bidirectional reinforcement guided hashing for effective cross-m
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Accepted by AAAI2022.'
-date: 2022-9-1
-venue: ' '
 paperurl: '[paperURL](https://ojs.aaai.org/index.php/AAAI/article/view/21268)'
 citation: 'Li, T., Yang, X., Wang, B., Xi, C., Zheng, H., & Zhou, X. (2022, June). Bi-CMR: bidirectional reinforcement guided hashing for effective cross-modal retrieval. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 9, pp. 10275-10282).'
 ---
