@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Accepted by ICDE2024'
 date: 2024
-venue: ''
+venue: ' '
 paperurl: 'none'
 citation: 'Tieying Li, Xiaochun Yang, Yiping Ke, Bin Wang, Yinan Liu, Jiaxing Xu.  Alleviating the Inconsistency of Multimodal Data in Cross-Modal Retrieval. To appear in ICDE 2024. '
 ---
