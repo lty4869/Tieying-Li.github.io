@@ -17,3 +17,9 @@ Research Interests
 2. Cross-modal Retrieval
 3. Information retrieval
 
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
