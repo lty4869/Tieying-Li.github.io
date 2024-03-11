@@ -1,5 +1,5 @@
 ---
-title: "Alleviating the Inconsistency of Multimodal Data in Cross-Modal Retrieval"
+title: "Alleviating the Inconsistency of Multimodal Data in Cross-Modal Retrieval(ICDE24)"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Accepted by ICDE2024'
