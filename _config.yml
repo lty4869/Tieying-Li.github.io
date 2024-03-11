@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.png"
   name             : "Tieying Li"
   pronouns         : # example: "she/her"  
   bio              : "keep integrity , unto a full grown man."
   location         : "LiaoNing Province"
   employer         : "Northeastern University"
-  uri              : # URL
+  uri              : # URLme
   email            : "tieying719@gmail.com" 
 
   # Academic websites
