@@ -1,5 +1,5 @@
 ---
-title: "Bi-CMR: bidirectional reinforcement guided hashing for effective cross-modal retrieval"
+title: "Bi-CMR: bidirectional reinforcement guided hashing for effective cross-modal retrieval(AAAI22)"
 collection: publications
 excerpt: 'Accepted by AAAI2022. '
 paperurl: '[paperURL](https://ojs.aaai.org/index.php/AAAI/article/view/21268)'
